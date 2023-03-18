@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "The backend for a chating app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ."
+  },
+  "author": "Douglas socorro\u001b[1;5D\u001b[3~\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[F\u001b[B\u001b[F\u001b[B\u0006\u0006\u0002\u0002\u0006",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "^12.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "koa": "^2.14.1",
+    "koa-body": "^6.0.1",
+    "koa-route": "^3.2.0",
+    "koa-static": "^5.0.0",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1",
+    "uuid": "^9.0.0"
+  }
+}
